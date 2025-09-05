@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string><![CDATA[https://tempfilesdone.s3.eu-central-003.backblazeb2.com/signed/5647539598/fe43d7aa-6b3f-4131-82d7-9a038510e391.ipa]]></string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>url</key>
+          <string><![CDATA[https://tempfilesdone.s3.eu-central-003.backblazeb2.com/icons/f3061110a83b8fad62543290681f8c55.png]]></string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>url</key>
+          <string><![CDATA[https://tempfilesdone.s3.eu-central-003.backblazeb2.com/icons/f3061110a83b8fad62543290681f8c55.png]]></string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string><![CDATA[chat.ai.strongerapps]]></string>
+        <key>bundle-version</key>
+        <string>1.8.7</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string><![CDATA[OrNET AI]]></string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
